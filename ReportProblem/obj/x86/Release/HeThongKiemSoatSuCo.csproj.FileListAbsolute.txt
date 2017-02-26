@@ -25,3 +25,6 @@ D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportP
 D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Release\BaoCaoSuCo.exe
 D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Release\BaoCaoSuCo.pdb
 D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Release\HeThongKiemSoatSuCo.csprojResolveAssemblyReference.cache
+F:\9. GitSource\HeThongKiemSoatDownTime\ReportProblem\bin\Release\BaoCaoSuCo.exe.config
+F:\9. GitSource\HeThongKiemSoatDownTime\ReportProblem\obj\x86\Release\BaoCaoSuCo.exe
+F:\9. GitSource\HeThongKiemSoatDownTime\ReportProblem\obj\x86\Release\BaoCaoSuCo.pdb
