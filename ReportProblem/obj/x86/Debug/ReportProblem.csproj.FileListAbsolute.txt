@@ -1,0 +1,161 @@
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\bin\Debug\ReportProblem.exe
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\bin\Debug\ReportProblem.pdb
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Properties.Resources.resources
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.exe
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.pdb
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ReportProblem.resources
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.welcome.resources
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ProblemSetting.resources
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Statistics.resources
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.chart.resources
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddNew.resources
+D:\Nguyen-Intern\Implementation\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.PeopleRelativeSetup.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.manifest
+C:\0. Engineering Develop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.application
+C:\0. Engineering Develop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe
+C:\0. Engineering Develop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.pdb
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddNew.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.PeopleRelativeSetup.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ProblemSetting.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ReportProblem.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Properties.Resources.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Statistics.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.UserAccount.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.welcome.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe.manifest
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.application
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.pdb
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddLine.resources
+C:\0. Engineering Develop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.SolutionComment.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.pdb
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.manifest
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.application
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.pdb
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddLine.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddNew.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.PeopleRelativeSetup.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ProblemSetting.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ReportProblem.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.SolutionComment.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Properties.Resources.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Statistics.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.UserAccount.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.welcome.resources
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe.manifest
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.application
+C:\Users\dls_vn_internME\Desktop\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Detail.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.pdb
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.manifest
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.application
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.pdb
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddLine.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddNew.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Detail.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.PeopleRelativeSetup.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ProblemSetting.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ReportProblem.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.SolutionComment.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Properties.Resources.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Statistics.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.UserAccount.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.welcome.resources
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe.manifest
+C:\0. Engineering Develop\18July\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.application
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.config
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.manifest
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.application
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.pdb
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.ChangeFailNameOfRecord.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Equipment.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.frmTest.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.LineSetting.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddNew.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Detail.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.MasterPass.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.OTDPDReport.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.PeopleRelativeSetup.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ProblemSetting.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ReportProblem.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.SolutionComment.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Properties.Resources.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Statistics.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.UserAccount.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.welcome.resources
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.csproj.GenerateResource.Cache
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe.manifest
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.application
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.pdb
+C:\0. Engineering Develop\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.csprojResolveAssemblyReference.cache
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.config
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.pdb
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.csprojResolveAssemblyReference.cache
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.ChangeFailNameOfRecord.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Equipment.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.frmTest.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.LineSetting.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddNew.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Detail.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.MasterPass.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.OTDPDReport.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.PeopleRelativeSetup.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ProblemSetting.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ReportProblem.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.SolutionComment.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Properties.Resources.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Statistics.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.UserAccount.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.welcome.resources
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.csproj.GenerateResource.Cache
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.manifest
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.application
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.pdb
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe.manifest
+D:\Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.application
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.config
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.pdb
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe.manifest
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.application
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.exe
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\bin\Debug\BaoCaoSuCo.pdb
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.csprojResolveAssemblyReference.cache
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.ChangeFailNameOfRecord.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Equipment.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.frmTest.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.LineSetting.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.AddNew.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.Detail.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.MasterPass.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.OTDPDReport.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.PeopleRelativeSetup.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ProblemSetting.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.ReportProblem.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Presentation.SolutionComment.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Properties.Resources.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.Statistics.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.UserAccount.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.welcome.resources
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\ReportProblem.csproj.GenerateResource.Cache
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.exe.manifest
+D:\6. Programing Project\InterShipNguyenAll-2014\Resources\ReportProblem\ReportProblem\obj\x86\Debug\BaoCaoSuCo.application
